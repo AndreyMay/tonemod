@@ -1,0 +1,14 @@
+{
+  "name": "tone",
+  "version": "15.1.4-mod.1",
+  "description": "[MOD] A Web Audio framework for making interactive music in the browser.",
+  "type": "module",
+  "main": "build/esm/index.js",
+  "module": "build/esm/index.js",
+  "types": "build/esm/index.d.ts",
+  "author": "Yotam Mann (https://yotammann.info/)",
+  "dependencies": {
+    "standardized-audio-context": "^25.3.77",
+    "tslib": "^2.3.1"
+  }
+}
